@@ -20,7 +20,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 <p align="center">
     <a href="https://flixmovies-82298.firebaseapp.com">
-        <img src="https://github.com/abidakram01/FlixMovies/blob/master/moviesScreen.png" alt="FlixMovies" />
+        <img src="https://github.com/aditi072/FlixMovies/blob/main/ss1.png" alt="FlixMovies" />
+      <img src="https://github.com/aditi072/FlixMovies/blob/main/ss2.png" alt="FlixMovies" />
     </a>
 </p>
 
